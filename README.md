@@ -21,20 +21,6 @@ The goal isn't simply to create another key-value store. It's to understand how 
 
 ---
 
-## Why This Project?
-
-This repository is primarily a learning journey focused on:
-
-* Writing production-style C code
-* Understanding memory at a low level
-* Designing efficient data structures
-* Learning TCP socket programming
-* Exploring high-performance server architecture
-* Improving debugging and optimization skills
-
-Every feature is implemented incrementally, making the repository a record of both the final implementation and the engineering decisions behind it.
-
----
 
 ## Features
 
@@ -144,19 +130,6 @@ Run:
 
 ---
 
-## Future Improvements
-
-* Self-balancing trees
-* LRU cache
-* Write-ahead logging
-* Disk persistence
-* Replication
-* Transactions
-* Benchmark suite
-* Multi-threaded request handling
-* Command pipelining
-
----
 
 
 ## License
