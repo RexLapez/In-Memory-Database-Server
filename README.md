@@ -115,55 +115,6 @@ in-memory-db/
 
 ---
 
-## Learning Roadmap
-
-### Phase 1 – Core Data Structures
-
-* [ ] Binary Tree implementation
-* [ ] Dynamic node creation
-* [ ] Insert & search
-* [ ] Delete operations
-* [ ] Tree traversal algorithms
-
-### Phase 2 – Networking
-
-* [ ] TCP server
-* [ ] Client connections
-* [ ] Command parsing
-* [ ] Response handling
-
-### Phase 3 – Optimization
-
-* [ ] Hash table integration
-* [ ] Faster lookup algorithms
-* [ ] Memory profiling
-* [ ] Performance benchmarking
-
-### Phase 4 – Advanced Features
-
-* [ ] Concurrent client handling
-* [ ] Process forking
-* [ ] Snapshot persistence
-* [ ] Custom serialization
-
----
-
-## What I'm Learning
-
-Through this project, I'm strengthening my understanding of:
-
-* Systems Programming
-* Computer Memory
-* Binary Trees
-* Hash Tables
-* Algorithms
-* Socket Programming
-* Operating Systems
-* Manual Memory Management
-* Performance Engineering
-* Concurrent Programming
-
----
 
 ## Building the Project
 
